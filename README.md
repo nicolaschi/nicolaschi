@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://devleka.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=400%2B+projects+shipped+%F0%9F%9A%80;Laravel+back-ends%2C+APIs+%26+payment+systems;Clients+in+Nigeria+%C2%B7+UK+%C2%B7+Ireland+%C2%B7+Portugal;AI+chatbots+%26+WhatsApp+automation;Build.+Ship.+Repeat." alt="400+ projects shipped. Laravel back-ends, APIs and payment systems." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=400%2B+projects+shipped+%F0%9F%9A%80;Full-stack+Laravel+%C2%B7+Vue+%C2%B7+React;Clients+in+Nigeria+%C2%B7+UK+%C2%B7+Ireland+%C2%B7+Portugal;AI+chatbots+%26+WhatsApp+automation;Build.+Ship.+Repeat." alt="400+ projects shipped. Full-stack Laravel, Vue and React." />
   </a>
 </p>
 
@@ -18,6 +18,8 @@
 <br />
 
 Hi, I'm **Chinedu** 👋🏾 I'm a full-stack developer who lives in Laravel. I've shipped **400+ projects**: a government payment portal, fintech dashboards, a creator marketplace with escrow payments, and online stores for brands in 🇳🇬 Nigeria, 🇬🇧 the UK, 🇮🇪 Ireland and 🇵🇹 Portugal. I take products from the first commit to production, then keep them fast, secure and tested.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/nicholas-ogeleka-20637b98/) or see my company's work at [devleka.com](https://devleka.com).
 
 <div align="center">
 
@@ -118,7 +120,7 @@ class ChineduOgeleka extends Developer implements ShipsToProduction
 
 ## ⚡ What I build
 
-- 🧱 **Laravel back-ends and APIs**: multi-role platforms, Filament admin panels, Sanctum-secured REST APIs
+- 🧱 **Full-stack Laravel apps**: multi-role platforms, Filament admin panels, Sanctum-secured REST APIs, Vue and React front-ends
 - 💳 **Payments and fintech**: Stripe and Paystack checkouts, escrow flows, billing portals, currency exchange
 - 🛒 **E-commerce**: WooCommerce and custom Laravel stores, online ordering, gift card platforms
 - 🎓 **Platforms**: LMS and e-learning, marketplaces, booking systems, influencer marketing
@@ -171,13 +173,11 @@ class ChineduOgeleka extends Developer implements ShipsToProduction
 ## 🤝 Let's build something
 
 <p align="center">
-  <a href="https://devleka.com"><img src="https://img.shields.io/badge/devleka.com-1e1b4b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: devleka.com" /></a>
+  <a href="https://www.linkedin.com/in/nicholas-ogeleka-20637b98/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDVDMjAuNiA4LjY1IDIxIDExLjIgMjEgMTQuNVYyMWgtNHYtNS44YzAtMS40LS4wMy0zLjItMS45NS0zLjItMS45NSAwLTIuMjUgMS41Mi0yLjI1IDMuMVYyMUg5eiIvPjwvc3ZnPg==" alt="LinkedIn: Nicholas Ogeleka" /></a>
+  <a href="https://x.com/dev_leka"><img src="https://img.shields.io/badge/@dev__leka-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @dev_leka" /></a>
+  <a href="https://devleka.com"><img src="https://img.shields.io/badge/devleka.com-1e1b4b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Business website: devleka.com" /></a>
   <a href="https://devleka.com/contact.html"><img src="https://img.shields.io/badge/Hire%20me-a855f7?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire me" /></a>
   <a href="mailto:info@devleka.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email info@devleka.com" /></a>
-  <!-- Add your handles, then remove the comment markers:
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  -->
 </p>
 
 <p align="center">
