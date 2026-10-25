@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://devleka.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=400%2B+projects+shipped+%F0%9F%9A%80;Full-stack+Laravel+%C2%B7+Vue+%C2%B7+React;Clients+in+Nigeria+%C2%B7+UK+%C2%B7+Ireland+%C2%B7+Portugal;AI+chatbots+%26+WhatsApp+automation;Build.+Ship.+Repeat." alt="400+ projects shipped. Full-stack Laravel, Vue and React." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=400%2B+projects+shipped+%F0%9F%9A%80;Full-stack+Laravel+apps%2C+APIs+%26+payments;Clients+in+Nigeria+%C2%B7+UK+%C2%B7+Ireland+%C2%B7+Portugal;AI+chatbots+%26+WhatsApp+automation;Build.+Ship.+Repeat." alt="400+ projects shipped. Full-stack Laravel apps, APIs and payments." />
   </a>
 </p>
 
@@ -120,7 +120,7 @@ class ChineduOgeleka extends Developer implements ShipsToProduction
 
 ## ⚡ What I build
 
-- 🧱 **Full-stack Laravel apps**: multi-role platforms, Filament admin panels, Sanctum-secured REST APIs, Vue and React front-ends
+- 🧱 **Full-stack Laravel apps and APIs**: multi-role platforms, Filament admin panels, Sanctum-secured REST APIs
 - 💳 **Payments and fintech**: Stripe and Paystack checkouts, escrow flows, billing portals, currency exchange
 - 🛒 **E-commerce**: WooCommerce and custom Laravel stores, online ordering, gift card platforms
 - 🎓 **Platforms**: LMS and e-learning, marketplaces, booking systems, influencer marketing
