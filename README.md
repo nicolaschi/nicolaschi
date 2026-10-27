@@ -78,22 +78,6 @@ On my Laravel builds I write feature tests with Pest, and GitHub Actions runs th
   <img src="https://img.shields.io/badge/WhatsApp%20API-1E223D?style=for-the-badge&logo=whatsapp&logoColor=F54F1B" alt="WhatsApp Business API" />
 </p>
 
-## 📊 GitHub analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaschi&theme=tokyonight&bg_color=1E223D&title_color=F54F1B&text_color=E6D5B7&icon_color=F54F1B&chart_color=F54F1B&border_color=1E223D" width="100%" alt="GitHub contributions over the past year" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaschi&theme=tokyonight&bg_color=1E223D&title_color=F54F1B&text_color=E6D5B7&icon_color=F54F1B&chart_color=F54F1B&border_color=1E223D" width="49%" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicolaschi&theme=tokyonight&timeZone=Africa/Lagos&bg_color=1E223D&title_color=F54F1B&text_color=E6D5B7&icon_color=F54F1B&chart_color=F54F1B&border_color=1E223D" width="49%" alt="Commits by hour of day, Lagos time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nicolaschi&hide_border=true&card_width=340&card_height=200&background=1E223D&stroke=968D86&ring=F54F1B&fire=F54F1B&currStreakNum=E6D5B7&sideNums=E6D5B7&currStreakLabel=F54F1B&sideLabels=E6D5B7&dates=968D86" width="49%" alt="Total contributions and streaks" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolaschi&theme=tokyonight&bg_color=1E223D&title_color=F54F1B&text_color=E6D5B7&icon_color=F54F1B&chart_color=F54F1B&border_color=1E223D" width="49%" alt="Top languages by commit" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolaschi/nicolaschi/output/github-snake-dark.svg" />
