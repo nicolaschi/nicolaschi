@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="660" alt="Chinedu Ogeleka. Full-stack developer in Lagos, Nigeria: Laravel, payments and APIs." />
+  <img src="assets/header-light.svg" width="660" alt="Chinedu Ogeleka. Full-stack developer." />
 </picture>
 
 I'm a full-stack developer in Lagos, and I live in Laravel. In five-plus years I've shipped 400+ projects for 30+ clients in Nigeria, the UK, Ireland and Portugal. Much of that work moves money: payment portals, fintech dashboards, escrow flows and online stores.
